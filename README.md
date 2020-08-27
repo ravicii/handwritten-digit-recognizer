@@ -7,6 +7,6 @@ I have alreday included a pre-trained model so no need to create the model again
 Run predict.py to use the model to give prediction.
 I use contour to detect where the digits are and then pre-process it to feed it into the cnn to get the prediction.
 following packages are required\n
-tensorflow\n
-cv2\n
+tensorflow,
+cv2,
 numpy
