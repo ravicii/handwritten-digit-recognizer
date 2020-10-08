@@ -1,4 +1,4 @@
-#Handwritten_Digit_Recognizer
+# Handwritten_Digit_Recognizer
 A simple CNN model that recognizes handwritten digits .
 Trained on mnist dataset.
 
